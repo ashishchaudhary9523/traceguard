@@ -1,0 +1,4 @@
+com/tresless/starter/TreslessAutoConfiguration.class
+com/tresless/starter/TreslessLifecycle.class
+com/tresless/starter/ingestion/ExceptionCaptureAspect.class
+com/tresless/starter/ingestion/LogAppender.class
