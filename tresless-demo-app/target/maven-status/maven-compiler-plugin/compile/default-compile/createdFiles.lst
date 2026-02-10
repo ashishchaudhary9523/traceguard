@@ -1,4 +1,3 @@
-com/tresless/demo/exception/GlobalExceptionHandler.class
 com/tresless/demo/DemoApplication.class
 com/tresless/demo/exception/InternalServiceException.class
 com/tresless/demo/handler/GlobalExceptionHandler.class

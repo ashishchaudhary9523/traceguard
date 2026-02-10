@@ -4,6 +4,5 @@
 /Users/sushil/projects/traceless-project/myproject/tresless-demo-app/src/main/java/com/tresless/demo/exception/ApiNotFoundException.java
 /Users/sushil/projects/traceless-project/myproject/tresless-demo-app/src/main/java/com/tresless/demo/DemoApplication.java
 /Users/sushil/projects/traceless-project/myproject/tresless-demo-app/src/main/java/com/tresless/demo/exception/InternalServiceException.java
-/Users/sushil/projects/traceless-project/myproject/tresless-demo-app/src/main/java/com/tresless/demo/exception/GlobalExceptionHandler.java
 /Users/sushil/projects/traceless-project/myproject/tresless-demo-app/src/main/java/com/tresless/demo/DemoController.java
 /Users/sushil/projects/traceless-project/myproject/tresless-demo-app/src/main/java/com/tresless/demo/handler/GlobalExceptionHandler.java
